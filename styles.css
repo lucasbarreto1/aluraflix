@@ -2,7 +2,11 @@
 body {
     color: black;
     backgroud: white;
-    }
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
     header {
         border-bottom: solid 2px rgb(42, 122, 228);
         padding: 40px;
